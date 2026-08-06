@@ -42,12 +42,7 @@ Before deploying the virtual machine, I carefully reviewed all configuration set
 
 The review included verifying the resource group, operating system, virtual network, network security group, administrator account, and virtual machine specifications before provisioning the server.
 
-<p align="center">
-  <img
-    src="../screenshots/virtual-machines/vm-dc01-review-summary.png"
-    alt="VM deployment review summary"
-    width="900">
-</p>
+![VM Review Summary](../screenshots/virtual-machines/vm-dc01-review-summary.png)
 
 ---
 
@@ -55,12 +50,7 @@ The review included verifying the resource group, operating system, virtual netw
 
 The networking and storage configuration was reviewed prior to deployment. The virtual machine was connected to the existing Virtual Network, secured with the previously created Network Security Group, and configured with the default operating system disk settings appropriate for this Azure Administration Lab.
 
-<p align="center">
-  <img
-    src="../screenshots/virtual-machines/vm-dc01-review-networking-&amp;-storage.png"
-    alt="VM networking and storage configuration"
-    width="900">
-</p>
+![VM Networking and Storage](../screenshots/virtual-machines/vm-dc01-review-networking-&-storage.png)
 
 ---
 
